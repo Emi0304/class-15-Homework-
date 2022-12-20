@@ -1,0 +1,40 @@
+body{
+   margin: 0 ;
+   padding: 0;
+   
+}
+.nav-main-section{
+    background-color: rgb(144, 110, 175);
+
+}
+
+.nav-item{
+  display: flex;
+  list-style: none;
+  padding-left: 800px;
+}
+.nav-item li{
+  margin-left: 20px;
+}
+
+.list-item{
+  padding-top: 20px;
+  margin-bottom: 20px;
+}    
+.nav-item li a{
+  text-decoration: none;
+  color: #ffffff;
+  padding-left: 30px;
+}
+.single-nav{
+  border: 1px solid black;
+  padding-top: 7px ;
+  padding-bottom: 7px;
+  padding-right: 30px;
+ 
+}
+.single-nav:hover{
+  background-color: blueviolet;
+  border-color:  blueviolet;
+}
+
